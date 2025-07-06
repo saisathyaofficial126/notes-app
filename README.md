@@ -40,10 +40,7 @@ The **Notes Application** is a powerful and feature-rich tool designed to help u
 
 ---
 
-## 🚀 Live Demo  
-🌍 **Live Application:** [mrzuber-notes-app.netlify.app](https://mrzuber-notes-app.netlify.app)  
-🎥 **Watch Demo Video:**  
-[![Watch on YouTube](https://img.youtube.com/vi/q8p2uhGL2Ew/0.jpg)](https://youtu.be/q8p2uhGL2Ew)  
+##  🌍 **Live Application:** [https://notesguviapp.netlify.app](https://mrzuber-notes-app.netlify.app)  
 
 
 
